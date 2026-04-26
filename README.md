@@ -36,7 +36,7 @@ The goal of the project is to combine multi-tool device with a music player, mak
 
 [![Click me!](image.png)](https://sail-mocha.vercel.app)
 <p align="center">
-    <b>Click the picture to see IBOM!</b>
+    <b>Click the picture to see MAIN Board IBOM!</b>
   </a>
 </p>
 
@@ -58,7 +58,7 @@ The most hidden, but probably the coolest thing of the device is the [thumb pote
 
 [![Click me!](NFC_image.png)](https://ibom-nfc.vercel.app/)
 <p align="center">
-    <b>Click the picture to see IBOM!</b>
+    <b>Click the picture to see NFC PCB IBOM!</b>
   </a>
 </p>
 
