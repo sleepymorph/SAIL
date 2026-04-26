@@ -28,6 +28,9 @@ The STM32H723 is a powerful MCU for that project, I would say even an overkill. 
 |  :---                                                                                                                              |   :---                                                                                                                              |
 |<img width="732" height="1012" alt="image" src="https://github.com/user-attachments/assets/6910aecf-bcad-42f6-b1f6-671b1048c61b" /> | <img width="754" height="1000" alt="image" src="https://github.com/user-attachments/assets/9ee13938-8767-4893-b497-99480a05d921" /> |
 
+---
+
+[![IBOM For *MAIN BOARD*](image.png)](sail-mocha.vercel.app)
 
 ---
 
