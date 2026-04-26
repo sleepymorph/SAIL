@@ -53,12 +53,30 @@ The most hidden, but probably the coolest thing of the device is the [thumb pote
 
 
 ---
-
+<h1 align="center"><b>NFC Board</b></h1>
 
 
 [![Click me!](NFC_image.png)](https://ibom-nfc.vercel.app/)
 <p align="center">
-    <b>Click the picture to see NFC PCB IBOM!</b>
+    <b>Click the picture to see the NFC PCB IBOM!</b>
+  </a>
+</p>
+
+--- 
+
+
+NFC Board that contains half out of all of the functionality of the device --
+
+It has NFC, CC1101 *433 MHZ only yet*, and as a juicy cherry on a chocolate dry cake -
+magnetic pogo pins for a breakout board. Here is the pinout if you would like to make a breakout board (in development)
+
+
+---
+<h1 align="center"><b>Infrared board</b></h1>
+
+[![Click me!](IR_BoardImage.png)](https://ibom-ir.vercel.app/)
+<p align="center">
+    <b>Click the picture to see the Infrared PCB IBOM!</b>
   </a>
 </p>
 
@@ -77,4 +95,4 @@ The most hidden, but probably the coolest thing of the device is the [thumb pote
 | **Battery Life**             | ~8 hours idle, 4-5 hours typical usage                                                                                                                 |
 | **Battery Voltage Measurement** | ADC Technology, connected to pin PA0 of STM32H7        |
 | **Magnet on Back Plate of NFC Board(Pogo pins)**     | [4x 4-Pin Pogo pin connector](https://www.lcsc.com/product-detail/C5126844.html) is a female version. For a breakout board you would need this [magnetic connector](https://www.lcsc.com/product-detail/C5126845.html?s_z=n_q_YZP0048-20048-04025-03&spm=wm.ssy.bg.0.xh&lcsc_vid=RwRWBFMFT1dZU1UCRVJcX11STgVXUVICQwBZVwYFRQAxVlNRQFNcVVRTRlhWUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQlBcUVxSQ08GEwkK)  |
-| **Audio components**               | [PCM5102APWR](https://www.lcsc.com/product-detail/C107671.html) as a DAC, [TPA6132A2RTER](https://www.lcsc.com/product-detail/C69901.html) as a AMP and a [PJ-327A 5JJ](https://www.lcsc.com/product-detail/C668605.html?s_z=n_q_PJ-327A%25205JJ&spm=wm.ssy.bg.0.xh&lcsc_vid=RgReVVxRRFgLUlFfQlJXAVEAFVhaX1EDT1YIBQVVQlYxVlNRQFNcVVZTRlFdUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVhXV1VIHxUDCw%3D%3D) as a jack 3.5mm connector for headphones.           |  
+| **Audio components**               | [PCM5102APWR](https://www.lcsc.com/product-detail/C107671.html) as a DAC, [TPA6132A2RTER](https://www.lcsc.com/product-detail/C69901.html) as an AMP and a [PJ-327A 5JJ](https://www.lcsc.com/product-detail/C668605.html?s_z=n_q_PJ-327A%25205JJ&spm=wm.ssy.bg.0.xh&lcsc_vid=RgReVVxRRFgLUlFfQlJXAVEAFVhaX1EDT1YIBQVVQlYxVlNRQFNcVVZTRlFdUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVhXV1VIHxUDCw%3D%3D) as a jack 3.5mm connector for headphones.           |  
