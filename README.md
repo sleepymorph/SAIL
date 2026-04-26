@@ -21,16 +21,36 @@
 
 
 **SAIL The Prototype** is a [DMP](https://en.wikipedia.org/wiki/Digital_media_player), an open-source project that plans to be a startup. This is not a basic digital media player, but also a multi-tool. It has 433MHZ CC1101, [Infrared LED](https://www.lcsc.com/product-detail/C18199783.html), and NFC functions(13.56MHZ). 
-The STM32H723 is a powerful MCU for that project, I would say even an overkill. More about the PCBs, there are 3PCBs. Why 3 PCBs? One is the main board, with STM32, ESP32, Display and user input devices, second one is NFC Board I would call. This board contains NFC as you can tell from the name, CC1101(433MHZ only), and magnetic pogo pin connectors.
+The STM32H723 is a powerful MCU for that project, I would say even an overkill. 
+
+More about the PCBs, there are 3PCBs. Why 3 PCBs? One is the main board, with STM32, ESP32, Display and user input devices, second one is NFC Board I would call. This board contains NFC as you can tell from the name, CC1101(433MHZ only), and magnetic pogo pin connectors. 
+
+The goal of the project is to combine multi-tool device with a music player, making you less addicted and helps you to escape social medias & algorithms(bad ones).
 
 
-|*MAIN Board* Top Component Layer                                                                                                                 |*MAIN Board* Bottom Component Layer                                                                                                              |  
+|*MAIN Board* Top Component Layer                                                                                                    |*MAIN Board* Bottom Component Layer                                                                                                              |  
 |  :---                                                                                                                              |   :---                                                                                                                              |
 |<img width="732" height="1012" alt="image" src="https://github.com/user-attachments/assets/6910aecf-bcad-42f6-b1f6-671b1048c61b" /> | <img width="754" height="1000" alt="image" src="https://github.com/user-attachments/assets/9ee13938-8767-4893-b497-99480a05d921" /> |
 
 ---
 
-[![IBOM For *MAIN BOARD*](image.png)](sail-mocha.vercel.app)
+[![Click me!](image.png)](https://sail-mocha.vercel.app)
+<p align="center">
+    <b>Click the picture to see IBOM!</b>
+  </a>
+</p>
+
+---
+
+
+So, lets get into the details. First of all, lets talk about what can you firstly see here, to be exact - the user input devices.
+
+The most valuable thing you can see here is probably the big [encoder](https://www.lcsc.com/product-detail/C160841.html). The encoder is pretty cool, its being used widely, especially at the automotive solutions. 
+
+Its a 5-way button + encoder functions, to be exact its going 5 directions(X+, Y+, X-, Y-), pressing down, scrolling phase A and B. Next thing are 2 buttons, I still have no clue what I will use them for, but probably next song - previous song.
+
+The most hidden, but probably the coolest thing of the device is the [thumb potentiometer](https://www.lcsc.com/product-detail/C351175.html), its placed at the left edge of the board, next to the left end to the display. 
+
 
 ---
 
@@ -40,7 +60,7 @@ The STM32H723 is a powerful MCU for that project, I would say even an overkill. 
 | **Main MCU**                       | STM32H723 as a main MCU that does all the work                                   |
 | **Secondary MCU**                  | ESP32-WROVER-IE(16MB) for BlueTooth headphones and pogo pin connectors(IOs)                                                                                             |
 | **2.4" IPS TFT Display**           | 2.4" IPS Display connected via FPC, 8080 16-bit protocol. [BuyDisplay](https://www.buydisplay.com/2-4-inch-ips-240x320-tft-lcd-display-capacitive-touch-screen)                               |
-| **Multi-Tool features**            | [NFC Module](https://www.lcsc.com/product-detail/C5267436.html)                |
+| **Multi-Tool features**            | [NFC Module](https://www.lcsc.com/product-detail/C5267436.html), CC1101 *433 MHZ ONLY*, IR Transceiver, Receiver                |
 | **RTC Battery**                    | BS-CR2032-8 battery slot for [RTC functionality](https://www.lcsc.com/product-detail/C9866.html).                        |
 |	~~**Metal Body**~~                 | ~~Aluminium front and back plate; 3D-printed middle section~~                                                                                               |
 | **Power and file transmitting**    | USB-C Port which allows data-stream and powering. [USB3300](https://www.lcsc.com/product-detail/C108954.html) for fast file transmitting(50MB/S)                                                                                                                                       |
