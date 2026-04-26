@@ -56,7 +56,7 @@ The most hidden, but probably the coolest thing of the device is the [thumb pote
 
 
 
-[![Click me!](image.png)](https://ibom-nfc.vercel.app/)
+[![Click me!](NFC_image.png)](https://ibom-nfc.vercel.app/)
 <p align="center">
     <b>Click the picture to see IBOM!</b>
   </a>
