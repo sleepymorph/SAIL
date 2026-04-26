@@ -82,6 +82,12 @@ magnetic pogo pins for a breakout board. Here is the pinout if you would like to
 
 ---
 
+I couldnt find any good IR Transceiver which is right angled, so instead I found a really good SMD 5050 LED, its powerful enough to remote something on the distance ~15M by my calculations
+
+---
+
+<h1 align="center"><b>Some more details and summary</b></h1>
+
 | **Feature**                    | **Details**                                                                                                                                          |
 |-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Main MCU**                       | STM32H723 as a main MCU that does all the work                                   |
