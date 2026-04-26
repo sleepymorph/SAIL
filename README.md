@@ -105,3 +105,20 @@ I couldnt find any good IR Transceiver which was right angled, so instead I foun
 | **Battery Voltage Measurement** | ADC Technology, connected to pin PA0 of STM32H7        |
 | **Magnet on Back Plate of NFC Board(Pogo pins)**     | [4x 4-Pin Pogo pin connector](https://www.lcsc.com/product-detail/C5126844.html) is a female version. For a breakout board you would need this [magnetic connector](https://www.lcsc.com/product-detail/C5126845.html?s_z=n_q_YZP0048-20048-04025-03&spm=wm.ssy.bg.0.xh&lcsc_vid=RwRWBFMFT1dZU1UCRVJcX11STgVXUVICQwBZVwYFRQAxVlNRQFNcVVRTRlhWUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQlBcUVxSQ08GEwkK)  |
 | **Audio components**               | [PCM5102APWR](https://www.lcsc.com/product-detail/C107671.html) as a DAC, [TPA6132A2RTER](https://www.lcsc.com/product-detail/C69901.html) as an AMP and a [PJ-327A 5JJ](https://www.lcsc.com/product-detail/C668605.html?s_z=n_q_PJ-327A%25205JJ&spm=wm.ssy.bg.0.xh&lcsc_vid=RgReVVxRRFgLUlFfQlJXAVEAFVhaX1EDT1YIBQVVQlYxVlNRQFNcVVZTRlFdUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVhXV1VIHxUDCw%3D%3D) as a jack 3.5mm connector for headphones.           |  
+
+---
+
+## .IOC
+<img width="1128" height="1137" alt="image" src="https://github.com/user-attachments/assets/dddf058d-e189-4629-8f53-ac9c78bdaf30" />
+
+---
+
+<h1 align="center"><b>Funded by:</b></h1>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="LOGO/flag-standalone-wtransparent.png">
+  <source media="(prefers-color-scheme: light)" srcset="LOGO/flag-standalone-bw.png">
+  <img alt="SAIL THE PROTOTYPE LOGO" src="URL_TO_BLACK_IMAGE">
+</picture>
+ </p>
