@@ -20,7 +20,7 @@
 ---
 
 
-**SAIL The Prototype** is a [DMP](https://en.wikipedia.org/wiki/Digital_media_player), a open-source project that plans to be a start-up. This is not a basic digital media player, but also a multi-tool. It has 433MHZ CC1101, [Infrared LED](https://www.lcsc.com/product-detail/C18199783.html), and NFC functions(13.56MHZ). 
+**SAIL The Prototype** is a [DMP](https://en.wikipedia.org/wiki/Digital_media_player), an open-source project that plans to be a startup. This is not a basic digital media player, but also a multi-tool. It has 433MHZ CC1101, [Infrared LED](https://www.lcsc.com/product-detail/C18199783.html), and NFC functions(13.56MHZ). 
 The STM32H723 is a powerful MCU for that project, I would say even an overkill. More about the PCBs, there are 3PCBs. Why 3 PCBs? One is the main board, with STM32, ESP32, Display and user input devices, second one is NFC Board I would call. This board contains NFC as you can tell from the name, CC1101(433MHZ only), and magnetic pogo pin connectors.
 
 
