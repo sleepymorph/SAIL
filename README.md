@@ -7,13 +7,13 @@
 </picture>
  </p>
 
-<h3 align="center"><strong>SAIL THE PROTOTYPE Project Repository</strong></h3>
+<h1 align="center"><b>SAIL THE PROTOTYPE</b></h1>
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen)
+<img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-In--Development-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-STM32H7-blue?style=for-the-badge&logo=stmicroelectronics">
 
 </div>
 
@@ -27,6 +27,7 @@ The STM32H723 is a powerful MCU for that project, I would say even an overkill. 
 |*MAIN Board* Top Component Layer                                                                                                                 |*MAIN Board* Bottom Component Layer                                                                                                              |  
 |  :---                                                                                                                              |   :---                                                                                                                              |
 |<img width="732" height="1012" alt="image" src="https://github.com/user-attachments/assets/6910aecf-bcad-42f6-b1f6-671b1048c61b" /> | <img width="754" height="1000" alt="image" src="https://github.com/user-attachments/assets/9ee13938-8767-4893-b497-99480a05d921" /> |
+
 
 ---
 
