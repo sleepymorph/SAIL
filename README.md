@@ -34,7 +34,7 @@ The goal of the project is to combine multi-tool device with a music player, mak
 
 ---
 
-[![Click me!](image.png)](https://sail-mocha.vercel.app)
+[![Click me!](MainBoardImage.png)](https://sail-mocha.vercel.app)
 <p align="center">
     <b>Click the picture to see MAIN Board IBOM!</b>
   </a>
