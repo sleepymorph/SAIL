@@ -1,8 +1,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="URL_TO_WHITE_IMAGE">
-  <source media="(prefers-color-scheme: light)" srcset="URL_TO_BLACK_IMAGE">
+  <source media="(prefers-color-scheme: dark)" srcset="LOGO/black.png">
+  <source media="(prefers-color-scheme: light)" srcset="LOGO/white.png">
   <img alt="SAIL THE PROTOTYPE LOGO" src="URL_TO_BLACK_IMAGE">
 </picture>
  </p>
