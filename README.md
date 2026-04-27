@@ -129,6 +129,14 @@ Here is an image how it looks from the side, I explained a big rectengular right
 
 ---
 
+**Designer's bio: sleepymorph, 13-year-old developer based in Ukraine**
+
+Questions or need more info? Text me!\
+Discord: **Sleepymorph**\
+Telegram: **@ifyouask3d**
+
+---
+
 <h1 align="center"><b>Funded by:</b></h1>
 
 <p align="center">
