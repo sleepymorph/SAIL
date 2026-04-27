@@ -88,11 +88,19 @@ magnetic pogo pins for a breakout board. Here is the pinout if you would like to
 I couldnt find any good IR Transceiver which was right angled, so instead I found a really good SMD 5050 LED, its powerful enough to remote something on the distance ~15M by my calculations
 
 ---
-<h1 align="center"><b>3D Design</b></h1>
+# 3D Design:
 
 Here is an image how it looks from the side, I explained a big rectengular right there and a strange looking knob right there too
 <img width="1950" height="1006" alt="image" src="https://github.com/user-attachments/assets/641eae26-620e-4c15-96ba-13c1fd798831" />
 
+---
+
+# Fusion360 Render:
+
+
+<img width="986" height="931" alt="image" src="https://github.com/user-attachments/assets/ef67cda0-6f82-4c04-9052-216e3562510d" />
+
+The 3D files are in the Release folder since GitHub didnt want to accept files <25MB, there are 2 files, a Knob and fully assembled PCB(No casing yet)
 
 ---
 
