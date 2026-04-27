@@ -46,7 +46,7 @@ The goal of the project is to combine multi-tool device with a music player, mak
 ---
 
 
-So, lets get into the details. First of all, lets talk about see here the most, to be exact - the user input devices.
+So, lets get into the details. First of all, lets talk about what you see here the most, to be exact - the user input devices.
 
 The most valuable thing you can see here is probably the big [encoder](https://www.lcsc.com/product-detail/C160841.html). The encoder is pretty cool, its being used widely, especially at the automotive solutions. 
 
