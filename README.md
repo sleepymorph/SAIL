@@ -100,7 +100,7 @@ Here is an image how it looks from the side, I explained a big rectengular right
 
 <img width="986" height="931" alt="image" src="https://github.com/user-attachments/assets/ef67cda0-6f82-4c04-9052-216e3562510d" />
 
-The 3D files are in the Release folder since GitHub didnt want to accept files <25MB, there are 2 files, a Knob and fully assembled PCB(No casing yet)
+**The 3D files are in the Release folder since GitHub didnt want to accept files <25MB, there are 2 files, a Knob and fully assembled PCB(No casing yet)**
 
 ---
 
@@ -121,7 +121,7 @@ The 3D files are in the Release folder since GitHub didnt want to accept files <
 | **Battery Voltage Measurement** | ADC Technology, connected to pin PA0 of STM32H7        |
 | **Magnet on Back Plate of NFC Board(Pogo pins)**     | [4x 4-Pin Pogo pin connector](https://www.lcsc.com/product-detail/C5126844.html) is a female version. For a breakout board you would need this [magnetic connector](https://www.lcsc.com/product-detail/C5126845.html?s_z=n_q_YZP0048-20048-04025-03&spm=wm.ssy.bg.0.xh&lcsc_vid=RwRWBFMFT1dZU1UCRVJcX11STgVXUVICQwBZVwYFRQAxVlNRQFNcVVRTRlhWUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQlBcUVxSQ08GEwkK)  |
 | **Audio components**               | [PCM5102APWR](https://www.lcsc.com/product-detail/C107671.html) as a DAC, [TPA6132A2RTER](https://www.lcsc.com/product-detail/C69901.html) as an AMP and a [PJ-327A 5JJ](https://www.lcsc.com/product-detail/C668605.html?s_z=n_q_PJ-327A%25205JJ&spm=wm.ssy.bg.0.xh&lcsc_vid=RgReVVxRRFgLUlFfQlJXAVEAFVhaX1EDT1YIBQVVQlYxVlNRQFNcVVZTRlFdUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVhXV1VIHxUDCw%3D%3D) as a jack 3.5mm connector for headphones.           |  
-
+| **Dimensions**                      | 70x100x25mm(W, L, H) which I find pretty solid(Only the PCB Assembled size), but I assume with a casing it would be with casing around 74x104x29mm(W, L, H)|
 ---
 
 ## .IOC
