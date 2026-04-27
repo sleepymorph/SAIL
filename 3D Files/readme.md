@@ -1,4 +1,3 @@
-In this folder, you can find compressed 3D files, such as fully assembled PCB.stl and Knob.stl
+Assembled_PCB.rar contains a fully assembled PCB with no enclosure -- it has a knob, battery, 3 assembled boards and you can take a look at dimensions ^_^ 
 
-You can find uncompressed ones at release folder, I am posting here the compressed folder since I cant submit review to stasis because of that
-<img width="509" height="78" alt="image" src="https://github.com/user-attachments/assets/d7935518-9414-4c7d-b2df-6090ecd21d8a" />
+<img width="250" height="250" alt="ImageToStl com_Assembled_PCB stl" src="https://github.com/user-attachments/assets/f96399d9-f518-4286-848d-65049f81a0fd" />
