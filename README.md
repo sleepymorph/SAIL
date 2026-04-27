@@ -90,7 +90,7 @@ I couldnt find any good IR Transceiver which was right angled, so instead I foun
 ---
 <h1 align="center"><b>3D Design</b></h1>
 
-Here is an image how it looks from the side, I explained a big rectengular right there and a strange looking knob right there
+Here is an image how it looks from the side, I explained a big rectengular right there and a strange looking knob right there too
 <img width="1950" height="1006" alt="image" src="https://github.com/user-attachments/assets/641eae26-620e-4c15-96ba-13c1fd798831" />
 
 
