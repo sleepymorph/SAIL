@@ -71,9 +71,25 @@ The most hidden, but probably the coolest thing of the device is the [thumb pote
 NFC Board that contains half out of all of the functionality of the device --
 
 It has NFC, CC1101 *433 MHz only yet*, and as a juicy cherry on a chocolate dry cake -
-magnetic pogo pins for a breakout board. Here is the pinout if you would like to make a breakout board (in development)
+magnetic pogo pins for a breakout board. Here is the pinout if you would like to make a breakout board 
+
+<img width="1071" height="945" alt="Untitled-2026-04-23-1610 excalidraw" src="https://github.com/user-attachments/assets/6f1c1e8d-ac0f-4287-952c-3f83fad0ff0e" />
 
 
+| Pin on the board| IO on the ESP32|
+| ------------------------------ | ----------------------------------- |
+| CS1: | IO32 |
+| CS2: | IO33 |
+| CS3: | IO4  |
+| CS4: | IO15 |
+| | |
+| MOSI: | IO23 |
+| MISO: | IO19 |
+| SCK:  | IO18 |
+| CS:   | -    |
+| | |
+| SDA: | IO21 |
+| SCL: | IO22 |
 ---
 <h1 align="center"><b>Infrared board</b></h1>
 
