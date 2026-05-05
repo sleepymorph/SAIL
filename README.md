@@ -162,3 +162,7 @@ Telegram: **@ifyouask3d**
   <img alt="SAIL THE PROTOTYPE LOGO" src="URL_TO_BLACK_IMAGE">
 </picture>
  </p>
+
+ Thanks a lot to [Hack Club](https://hackclub.com/) for funding this project!
+ 
+ The project got reviewed and approved by [CAN](https://github.com/claynicholson)
