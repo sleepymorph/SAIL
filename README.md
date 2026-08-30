@@ -145,7 +145,6 @@ Here is an image how it looks from the side, I explained a big rectangular right
 
 ---
 
-**Designer's bio: sleepymorph, 13-year-old developer based in Ukraine**
 
 Questions or need more info? Reach out to me!\
 Discord: **Sleepymorph**\
